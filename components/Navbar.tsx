@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import logo1 from '@/Assets/Logo1.png'
+import logo1 from '@/Assets/logo1.png'
 import { Input } from "@/components/ui/input"
 import { Button } from './ui/button'
 import {
